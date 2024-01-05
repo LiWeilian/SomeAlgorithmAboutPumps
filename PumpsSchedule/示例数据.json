@@ -1,0 +1,97 @@
+﻿{
+	"Pumps": [
+		{
+			"PumpNum": "PUMP1#",
+			"RatedParam": {
+				"RatedFlow": 1000,
+				"RatedHead": 45,
+				"RatedSpeed": 1000,
+				"MinSpeed": 1000,
+				"MaxSpeed": 1000,
+				"MinPower": 150,
+				"MaxPower": 350,
+				"EMPower": 400,
+				"EMEfficiency": 0.84,
+				"PumpEfficiencyCurve": [
+					{
+						"X": 700,
+						"Y": 0.55
+					},
+					{
+						"X": 900,
+						"Y": 0.65
+					},
+					{
+						"X": 1200,
+						"Y": 0.6
+					}
+				],
+				"VFDEfficency": 0.98
+			}
+		},
+		{
+			"PumpNum": "PUMP2#",
+			"RatedParam": {
+				"RatedFlow": 900,
+				"RatedHead": 45,
+				"RatedSpeed": 1000,
+				"MinSpeed": 750,
+				"MaxSpeed": 1500,
+				"MinPower": 150,
+				"MaxPower": 350,
+				"EMPower": 400,
+				"EMEfficiency": 0.84,
+				"PumpEfficiencyCurve": [
+					{
+						"X": 700,
+						"Y": 0.55
+					},
+					{
+						"X": 900,
+						"Y": 0.65
+					},
+					{
+						"X": 1200,
+						"Y": 0.6
+					}
+				],
+				"VFDEfficency": 0.98
+			}
+		}
+	],
+	"Operations": [
+		{
+			"OperationNum": "",
+			"InPressure": 20,
+			"OutPressure": 50,
+			"OutFlow": 1800,
+			"Pumps": [
+				"PUMP1#",
+				"PUMP2#"
+			],
+			"Electrovalence": 0.6
+		},
+		{
+			"OperationNum": "",
+			"InPressure": 18,
+			"OutPressure": 50,
+			"OutFlow": 1700,
+			"Pumps": [
+				"PUMP1#",
+				"PUMP2#"
+			],
+			"Electrovalence": 0.6
+		},
+		{
+			"OperationNum": "",
+			"InPressure": 25,
+			"OutPressure": 50,
+			"OutFlow": 1900,
+			"Pumps": [
+				"PUMP1#",
+				"PUMP2#"
+			],
+			"Electrovalence": 0.6
+		}
+	]
+}

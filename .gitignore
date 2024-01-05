@@ -1,0 +1,5 @@
+PumpsSchedule/bin/
+PumpsSchedule/obj/
+packages/
+*.lock
+*.ide

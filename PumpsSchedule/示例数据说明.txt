@@ -1,0 +1,124 @@
+﻿//传入
+{
+	"Pumps":[
+		{
+			//水泵编号
+			"PumpNum":"PUMP1#",
+			//水泵额定参数
+			"RatedParam":{
+				// 额定流量，单位：跟随系统设置        
+				"RatedFlow":1000,
+				// 额定扬程，单位：米        
+				"RatedHead":45,
+				// 额定转速        
+				"RatedSpeed":1000,
+				// 最小转速        
+				"MinSpeed":750,
+				// 最大转速        
+				"MaxSpeed":1500,
+				// 最小功率        
+				"MinPower":150,
+				// 最大功率        
+				"MaxPower":350,
+				// 电机额定功率，单位：kW        
+				"EMPower":400,
+				// 电机额定效率，百分比        
+				"EMEfficiency":0.84,     
+				// 水泵效率曲线点，用于计算水泵在不同流量下的效率        
+				"PumpEfficiencyCurve":[
+					{
+						//流量
+						"X":700,
+						//效率
+						"Y":0.55
+					},
+					{
+						//流量
+						"X":900,
+						//效率
+						"Y":0.65
+					},
+					{
+						//流量
+						"X":1200,
+						//效率
+						"Y":0.60
+					}
+				],
+				// 变频器效率，定频泵默认为1        
+				"VFDEfficency":0.98
+			}
+		}
+	],
+	//优化调度操作参数，运算服务针对每个操作请求对象返回一个泵组优化操作结果
+	"Operations":[
+		{
+			"OperationNum":"",
+			//入站压力
+			"InPressure":0,
+			//出站压力
+			"OutPressure":0,
+			//出站流量
+			"OutFlow":0,
+			//水泵
+			"Pumps":["PUMP1#","PUMP2#"],
+			//电价
+			"Electrovalence":0.6
+		}
+	]
+}
+
+
+
+//传出
+[
+	{
+		//调度方案名称
+		"SchedulingName":"",
+		//水泵操作列表，与请求内容中的操作请求对应
+		"Operations":[
+			{
+				"OperationNum":"",
+				//总流量
+				"TotalFlow":999,
+				//总能耗
+				"TotalPower":1000,
+				//电费
+				"ElectricityFees":666,
+				//适应度，与调度要求的匹配度越高则越大
+				"Fitness":100,
+				//泵组中各水泵在当前操作中的数值
+				"Pumps":[
+					{
+						//水泵编号
+						"PumpNum":"Pump#1",
+						//是否开启
+						"IsOpen":true,
+						//流量
+						"CurrentFlow":0,
+						//水头
+						"CurrentHead":0,
+						//转速
+						"CurrentSpeed":0,
+						//水泵功率
+						"CurrentPumpPower":0,
+						//水泵效率
+						"CurrentPumpEfficiency":0,
+						//水泵总能耗
+						"CurrentTotalPower":0,
+					},
+					{
+						"PumpNum":"Pump#2",
+						"IsOpen":true,
+						"CurrentFlow":0,
+						"CurrentHead":0,
+						"CurrentSpeed":0,
+						"CurrentPumpPower":0,
+						"CurrentPumpEfficiency":0,
+						"CurrentTotalPower":0,
+					}
+				]
+			}
+		]
+	}
+]
