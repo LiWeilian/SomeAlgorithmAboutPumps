@@ -48,14 +48,25 @@ namespace PumpsSchedule
 
             foreach (InPumpSchedulingOperation operation_param in inputPrams.Operations)
             {
-                operations.Add(new PumpGroupSchedulingOperation()
+                PumpGroupSchedulingOperation operation = new PumpGroupSchedulingOperation()
                 {
                     OperationNum = operation_param.OperationNum,
                     InPressure = operation_param.InPressure,
                     OutPressure = operation_param.OutPressure,
                     OutFlow = operation_param.OutFlow,
-                    Pumps = CopyPumps.Copy(pumps)
-                });
+                    Pumps = new List<Pump>()
+                };
+
+                //筛选水泵
+                foreach (var pump in operation_param.Pumps)
+                {
+                    if (pumps.Exists(p => p.PumpNum == pump))
+                    {
+                        operation.Pumps.Add(CopyPump.Copy(pumps.FirstOrDefault(p => p.PumpNum == pump)!));
+                    }
+                }
+
+                operations.Add(operation);
             }
 
             PumpGroupSchedulingManager sch_mgr = new PumpGroupSchedulingManager(operations);

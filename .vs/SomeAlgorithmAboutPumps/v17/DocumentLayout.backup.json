@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|c:\\work_lab\\github\\somealgorithmaboutpumps\\pumpsschedule\\pumpscheduling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|solutionrelative:pumpsschedule\\pumpscheduling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|c:\\work_lab\\github\\somealgorithmaboutpumps\\pumpsschedule\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|solutionrelative:pumpsschedule\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|c:\\work_lab\\github\\somealgorithmaboutpumps\\pumpsschedule\\pumpcurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|solutionrelative:pumpsschedule\\pumpcurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|c:\\work_lab\\github\\somealgorithmaboutpumps\\pumpsschedule\\pumpgroupschedulingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|solutionrelative:pumpsschedule\\pumpgroupschedulingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|c:\\work_lab\\github\\somealgorithmaboutpumps\\pumpsschedule\\pumpschedulingga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|solutionrelative:pumpsschedule\\pumpschedulingga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|c:\\work_lab\\github\\somealgorithmaboutpumps\\pumpsschedule\\pump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|solutionrelative:pumpsschedule\\pump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|c:\\work_lab\\github\\somealgorithmaboutpumps\\pumpsschedule\\pumpschedulingplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|solutionrelative:pumpsschedule\\pumpschedulingplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|c:\\work_lab\\github\\somealgorithmaboutpumps\\pumpsschedule\\pumpschedulingparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|solutionrelative:pumpsschedule\\pumpschedulingparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|c:\\work_lab\\github\\somealgorithmaboutpumps\\pumpsschedule\\pumpschedulingoperationplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|solutionrelative:pumpsschedule\\pumpschedulingoperationplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|c:\\work_lab\\github\\somealgorithmaboutpumps\\pumpsschedule\\\u793A\u4F8B\u6570\u636E\u8BF4\u660E.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|solutionrelative:pumpsschedule\\\u793A\u4F8B\u6570\u636E\u8BF4\u660E.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|c:\\work_lab\\github\\somealgorithmaboutpumps\\pumpsschedule\\pumpschedulingpumpplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|solutionrelative:pumpsschedule\\pumpschedulingpumpplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|c:\\work_lab\\github\\somealgorithmaboutpumps\\pumpsschedule\\\u793A\u4F8B\u6570\u636E.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1706A199-CDC5-4EAC-A34F-B1C3EBDF631B}|PumpsSchedule\\PumpsSchedule.csproj|solutionrelative:pumpsschedule\\\u793A\u4F8B\u6570\u636E.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 360,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PumpSchedulingPlan.cs",
+              "DocumentMoniker": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\PumpSchedulingPlan.cs",
+              "RelativeDocumentMoniker": "PumpsSchedule\\PumpSchedulingPlan.cs",
+              "ToolTip": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\PumpSchedulingPlan.cs",
+              "RelativeToolTip": "PumpsSchedule\\PumpSchedulingPlan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T10:26:21.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PumpCurve.cs",
+              "DocumentMoniker": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\PumpCurve.cs",
+              "RelativeDocumentMoniker": "PumpsSchedule\\PumpCurve.cs",
+              "ToolTip": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\PumpCurve.cs",
+              "RelativeToolTip": "PumpsSchedule\\PumpCurve.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAowGoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T10:20:01.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pump.cs",
+              "DocumentMoniker": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\Pump.cs",
+              "RelativeDocumentMoniker": "PumpsSchedule\\Pump.cs",
+              "ToolTip": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\Pump.cs",
+              "RelativeToolTip": "PumpsSchedule\\Pump.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAIA5wGEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T10:18:09.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\Worker.cs",
+              "RelativeDocumentMoniker": "PumpsSchedule\\Worker.cs",
+              "ToolTip": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\Worker.cs",
+              "RelativeToolTip": "PumpsSchedule\\Worker.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T11:04:57.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PumpSchedulingGA.cs",
+              "DocumentMoniker": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\PumpSchedulingGA.cs",
+              "RelativeDocumentMoniker": "PumpsSchedule\\PumpSchedulingGA.cs",
+              "ToolTip": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\PumpSchedulingGA.cs",
+              "RelativeToolTip": "PumpsSchedule\\PumpSchedulingGA.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAowO4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T10:21:31.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PumpScheduling.cs",
+              "DocumentMoniker": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\PumpScheduling.cs",
+              "RelativeDocumentMoniker": "PumpsSchedule\\PumpScheduling.cs",
+              "ToolTip": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\PumpScheduling.cs",
+              "RelativeToolTip": "PumpsSchedule\\PumpScheduling.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowEQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T10:30:25.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PumpGroupSchedulingManager.cs",
+              "DocumentMoniker": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\PumpGroupSchedulingManager.cs",
+              "RelativeDocumentMoniker": "PumpsSchedule\\PumpGroupSchedulingManager.cs",
+              "ToolTip": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\PumpGroupSchedulingManager.cs",
+              "RelativeToolTip": "PumpsSchedule\\PumpGroupSchedulingManager.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowPsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T10:22:31.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PumpSchedulingParams.cs",
+              "DocumentMoniker": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\PumpSchedulingParams.cs",
+              "RelativeDocumentMoniker": "PumpsSchedule\\PumpSchedulingParams.cs",
+              "ToolTip": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\PumpSchedulingParams.cs",
+              "RelativeToolTip": "PumpsSchedule\\PumpSchedulingParams.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAIA5wCkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T10:36:27.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PumpSchedulingOperationPlan.cs",
+              "DocumentMoniker": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\PumpSchedulingOperationPlan.cs",
+              "RelativeDocumentMoniker": "PumpsSchedule\\PumpSchedulingOperationPlan.cs",
+              "ToolTip": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\PumpSchedulingOperationPlan.cs",
+              "RelativeToolTip": "PumpsSchedule\\PumpSchedulingOperationPlan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T10:24:13.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "\u793A\u4F8B\u6570\u636E\u8BF4\u660E.txt",
+              "DocumentMoniker": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\\u793A\u4F8B\u6570\u636E\u8BF4\u660E.txt",
+              "RelativeDocumentMoniker": "PumpsSchedule\\\u793A\u4F8B\u6570\u636E\u8BF4\u660E.txt",
+              "ToolTip": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\\u793A\u4F8B\u6570\u636E\u8BF4\u660E.txt",
+              "RelativeToolTip": "PumpsSchedule\\\u793A\u4F8B\u6570\u636E\u8BF4\u660E.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-01-05T11:03:49.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PumpSchedulingPumpPlan.cs",
+              "DocumentMoniker": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\PumpSchedulingPumpPlan.cs",
+              "RelativeDocumentMoniker": "PumpsSchedule\\PumpSchedulingPumpPlan.cs",
+              "ToolTip": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\PumpSchedulingPumpPlan.cs",
+              "RelativeToolTip": "PumpsSchedule\\PumpSchedulingPumpPlan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T10:24:41.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "\u793A\u4F8B\u6570\u636E.json",
+              "DocumentMoniker": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\\u793A\u4F8B\u6570\u636E.json",
+              "RelativeDocumentMoniker": "PumpsSchedule\\\u793A\u4F8B\u6570\u636E.json",
+              "ToolTip": "C:\\work_lab\\GitHub\\SomeAlgorithmAboutPumps\\PumpsSchedule\\\u793A\u4F8B\u6570\u636E.json",
+              "RelativeToolTip": "PumpsSchedule\\\u793A\u4F8B\u6570\u636E.json",
+              "ViewState": "AQIAADMAAAAAAAAAAAAgwGAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-05T11:03:08.505Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
